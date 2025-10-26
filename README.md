@@ -1,4 +1,4 @@
-# Jump-n-Orbs
+# Jump_n_Orbs
 
 This is a 3D puzzle platformer project developed in **Unreal Engine 5**. This repository serves to document my learning and skill development process in game development.
 
