@@ -1,8 +1,8 @@
-# Puzzle_platformer
+# Jump-n-Orbs
 
-A UE5 Puzzle Platformer.
+Jump-n-Orbs - a UE5 Puzzle Platformer.
 
-This is a 2D puzzle platformer project developed in **Unreal Engine 5**. This repository serves to document my learning and skill development process in game development.
+This is a 3D puzzle platformer project developed in **Unreal Engine 5**. This repository serves to document my learning and skill development process in game development.
 
 ## About The Project
 
